@@ -1,0 +1,17 @@
+C:\Users\jiang\Desktop\FindAllHudgeFiles\FindAllHudgeFiles\FindAllHudgeFiles\bin\Debug\FindAllHudgeFiles.exe.config
+C:\Users\jiang\Desktop\FindAllHudgeFiles\FindAllHudgeFiles\FindAllHudgeFiles\bin\Debug\FindAllHudgeFiles.exe
+C:\Users\jiang\Desktop\FindAllHudgeFiles\FindAllHudgeFiles\FindAllHudgeFiles\bin\Debug\FindAllHudgeFiles.pdb
+C:\Users\jiang\Desktop\FindAllHudgeFiles\FindAllHudgeFiles\FindAllHudgeFiles\obj\Debug\FindAllHudgeFiles.csprojResolveAssemblyReference.cache
+C:\Users\jiang\Desktop\FindAllHudgeFiles\FindAllHudgeFiles\FindAllHudgeFiles\obj\Debug\ShowFileCopyOrMove.baml
+C:\Users\jiang\Desktop\FindAllHudgeFiles\FindAllHudgeFiles\FindAllHudgeFiles\obj\Debug\MainWindow.g.cs
+C:\Users\jiang\Desktop\FindAllHudgeFiles\FindAllHudgeFiles\FindAllHudgeFiles\obj\Debug\ShowFileCopyOrMove.g.cs
+C:\Users\jiang\Desktop\FindAllHudgeFiles\FindAllHudgeFiles\FindAllHudgeFiles\obj\Debug\App.g.cs
+C:\Users\jiang\Desktop\FindAllHudgeFiles\FindAllHudgeFiles\FindAllHudgeFiles\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\jiang\Desktop\FindAllHudgeFiles\FindAllHudgeFiles\FindAllHudgeFiles\obj\Debug\FindAllHudgeFiles_MarkupCompile.cache
+C:\Users\jiang\Desktop\FindAllHudgeFiles\FindAllHudgeFiles\FindAllHudgeFiles\obj\Debug\FindAllHudgeFiles_MarkupCompile.lref
+C:\Users\jiang\Desktop\FindAllHudgeFiles\FindAllHudgeFiles\FindAllHudgeFiles\obj\Debug\MainWindow.baml
+C:\Users\jiang\Desktop\FindAllHudgeFiles\FindAllHudgeFiles\FindAllHudgeFiles\obj\Debug\FindAllHudgeFiles.g.resources
+C:\Users\jiang\Desktop\FindAllHudgeFiles\FindAllHudgeFiles\FindAllHudgeFiles\obj\Debug\FindAllHudgeFiles.Properties.Resources.resources
+C:\Users\jiang\Desktop\FindAllHudgeFiles\FindAllHudgeFiles\FindAllHudgeFiles\obj\Debug\FindAllHudgeFiles.csproj.GenerateResource.Cache
+C:\Users\jiang\Desktop\FindAllHudgeFiles\FindAllHudgeFiles\FindAllHudgeFiles\obj\Debug\FindAllHudgeFiles.exe
+C:\Users\jiang\Desktop\FindAllHudgeFiles\FindAllHudgeFiles\FindAllHudgeFiles\obj\Debug\FindAllHudgeFiles.pdb

@@ -1,0 +1,17 @@
+E:\FindAllHudgeFiles\FindAllHudgeFiles\bin\Release\FindAllHudgeFiles.exe.config
+E:\FindAllHudgeFiles\FindAllHudgeFiles\bin\Release\FindAllHudgeFiles.exe
+E:\FindAllHudgeFiles\FindAllHudgeFiles\bin\Release\FindAllHudgeFiles.pdb
+E:\FindAllHudgeFiles\FindAllHudgeFiles\obj\Release\ShowFileCopyOrMove.baml
+E:\FindAllHudgeFiles\FindAllHudgeFiles\obj\Release\MainWindow.g.cs
+E:\FindAllHudgeFiles\FindAllHudgeFiles\obj\Release\ShowFileCopyOrMove.g.cs
+E:\FindAllHudgeFiles\FindAllHudgeFiles\obj\Release\App.g.cs
+E:\FindAllHudgeFiles\FindAllHudgeFiles\obj\Release\GeneratedInternalTypeHelper.g.cs
+E:\FindAllHudgeFiles\FindAllHudgeFiles\obj\Release\FindAllHudgeFiles_MarkupCompile.cache
+E:\FindAllHudgeFiles\FindAllHudgeFiles\obj\Release\FindAllHudgeFiles_MarkupCompile.lref
+E:\FindAllHudgeFiles\FindAllHudgeFiles\obj\Release\MainWindow.baml
+E:\FindAllHudgeFiles\FindAllHudgeFiles\obj\Release\FindAllHudgeFiles.g.resources
+E:\FindAllHudgeFiles\FindAllHudgeFiles\obj\Release\FindAllHudgeFiles.Properties.Resources.resources
+E:\FindAllHudgeFiles\FindAllHudgeFiles\obj\Release\FindAllHudgeFiles.csproj.GenerateResource.Cache
+E:\FindAllHudgeFiles\FindAllHudgeFiles\obj\Release\FindAllHudgeFiles.exe
+E:\FindAllHudgeFiles\FindAllHudgeFiles\obj\Release\FindAllHudgeFiles.pdb
+E:\FindAllHudgeFiles\FindAllHudgeFiles\obj\Release\FindAllHudgeFiles.csprojResolveAssemblyReference.cache
